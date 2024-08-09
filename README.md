@@ -5,6 +5,8 @@ This project outlines the development and demonstration of a **Mini Hot and Cold
 ## **Introduction:**
 The **Mini Hot and Cold-Water Dispenser** project aims to address the growing need for a space-efficient and energy-conscious solution to deliver both hot and cold water. This section introduces the project's objectives, emphasizing the importance of convenience, sustainability, and user experience.
 
+![schematic](https://github.com/user-attachments/assets/7100bbfd-856d-4551-a648-3345c2775e91)
+---
 # **Project Overview**
 ### 🎯 **Objective:**
 Develop a compact water dispenser capable of delivering both hot and cold water.
@@ -42,8 +44,7 @@ The **Peltier module**, also known as a thermoelectric cooler (TEC) or Peltier d
 - **Peltier Effect:** The Peltier effect is a phenomenon where heat is absorbed at one junction (cooling side) and released at the other junction (heating side) when an electric current flows through the module. This effect is reversible, allowing the module to function as both a heater and a cooler.
 - **Direction of Current:** The direction of the electric current determines whether the Peltier module operates in a heating or cooling mode. Reversing the current direction reverses the heat transfer direction.
 ---
-![schematic](https://github.com/user-attachments/assets/7100bbfd-856d-4551-a648-3345c2775e91)
----
+
 ### **🛠 Application in Mini Hot and Cold-Water Dispenser:**
 - **Heating System:** In the heating system of the water dispenser, the Peltier module facilitates the absorption of heat from the ambient environment and releases it into the water, raising its temperature.
 - **Cooling System:** In the cooling system, the Peltier module absorbs heat from the water, transferring it to the ambient environment, thereby cooling the water.
