@@ -41,7 +41,9 @@ The **Peltier module**, also known as a thermoelectric cooler (TEC) or Peltier d
 ### **⚙️ Principle of Operation:**
 - **Peltier Effect:** The Peltier effect is a phenomenon where heat is absorbed at one junction (cooling side) and released at the other junction (heating side) when an electric current flows through the module. This effect is reversible, allowing the module to function as both a heater and a cooler.
 - **Direction of Current:** The direction of the electric current determines whether the Peltier module operates in a heating or cooling mode. Reversing the current direction reverses the heat transfer direction.
-
+---
+![schematic](https://github.com/user-attachments/assets/7100bbfd-856d-4551-a648-3345c2775e91)
+---
 ### **🛠 Application in Mini Hot and Cold-Water Dispenser:**
 - **Heating System:** In the heating system of the water dispenser, the Peltier module facilitates the absorption of heat from the ambient environment and releases it into the water, raising its temperature.
 - **Cooling System:** In the cooling system, the Peltier module absorbs heat from the water, transferring it to the ambient environment, thereby cooling the water.
